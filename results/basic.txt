@@ -1,0 +1,96 @@
+==================================================
+query: ¿Cómo es el reajuste por IPC en Fakesoft? ¿Cómo es el reajuste por IPC en Ficticia?
+==================================================
+answer:
+El reajuste por IPC en Ficticia consiste en un incremento anual basado en la inflación, específicamente el IPC más un 2%.
+==================================================
+relevant_nodes:
+METADATA:
+filename: contrato_latam_ficticia.md
+extension: .md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES DE CLOUD COMPUTING/Honorarios y Forma de Pago/
+---
+CONTENT:
+### SÉPTIMA.- HONORARIOS Y BENEFICIOS
+Por concepto de los servicios objeto del presente contrato, LATAM pagará a FICTICIA:
+
+1. Honorarios base: USD 50,000 (CINCUENTA MIL DÓLARES) mensuales, más los impuestos aplicables
+2. Beneficios adicionales:
+   - Descuento por volumen de uso: hasta 20% del honorario base
+   - Soporte premium: USD 5,000 mensuales
+   - Capacitación técnica: USD 2,000 por sesión
+   - Optimización de costos: 15% de ahorro compartido
+3. Ajustes anuales:
+   - Incremento por inflación: IPC + 2%
+   - Revisión de precios: semestral
+==================================================
+
+
+
+==================================================
+query: ¿Cuál es el cronograma para pagar establecido en el contrato con Fakesoft?
+==================================================
+answer:
+El cronograma para pagar establecido en el contrato con Fakesoft es el siguiente: un pago del 30% al inicio del contrato, un 40% al cumplir el 50% de los servicios, y un 30% al finalizar los servicios. Todos los pagos deben realizarse dentro de los 30 días hábiles siguientes a la presentación de la factura correspondiente.
+==================================================
+relevant_nodes:
+METADATA:
+filename: contrato_latam_fakesoft.md
+extension: .md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/Honorarios y Forma de Pago/
+---
+CONTENT:
+### OCTAVA.- FORMA DE PAGO
+Los pagos se realizarán de la siguiente manera:
+
+1. 20% al inicio del contrato
+2. 40% al cumplimiento del 50% de los servicios
+3. 40% al finalizar los servicios
+
+Los pagos deberán realizarse dentro de los 30 días hábiles siguientes a la presentación de la factura correspondiente.
+METADATA:
+filename: contrato_latam_fakesoft.md
+extension: .md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/Honorarios y Forma de Pago/
+---
+CONTENT:
+### OCTAVA.- FORMA DE PAGO
+Los pagos se realizarán de la siguiente manera:
+
+1. 30% al inicio del contrato
+2. 40% al cumplimiento del 50% de los servicios
+3. 30% al finalizar los servicios
+
+Los pagos deberán realizarse dentro de los 30 días hábiles siguientes a la presentación de la factura correspondiente.
+==================================================
+
+
+
+==================================================
+query: ¿Qué tipo de almacenamiento utiliza Ficticia?
+==================================================
+answer:
+Utiliza almacenamiento SSD NVMe y HDD, con capacidades específicas para datos y modelos, además de un sistema de respaldo con frecuencia diaria y retención de 30 días.
+==================================================
+relevant_nodes:
+METADATA:
+filename: contrato_latam_ficticia_anexo_b_especificaciones_tecnicas.md
+extension: .md
+header_path: /ANEXO B: ESPECIFICACIONES TÉCNICAS DE LA INFRAESTRUCTURA CLOUD/1. Infraestructura de Cómputo/
+---
+CONTENT:
+### 1.2 Almacenamiento
+- **Almacenamiento de Datos**:
+  - SSD NVMe: 100TB
+  - HDD: 500TB
+  - Redundancia: 3x replicación
+- **Almacenamiento de Modelos**:
+  - SSD NVMe: 50TB
+  - Redundancia: 3x replicación
+- **Backup**:
+  - Frecuencia: Diaria
+  - Retención: 30 días
+  - Capacidad: 200TB
+==================================================
+
+

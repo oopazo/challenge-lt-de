@@ -1,0 +1,204 @@
+==================================================
+query: ¿Cómo es el reajuste por IPC en Fakesoft? ¿Cómo es el reajuste por IPC en Ficticia?
+==================================================
+answer:
+No se proporciona información específica sobre el reajuste por IPC en Fakesoft. En cambio, en Ficticia, el reajuste por IPC se realiza con un incremento adicional del 2% y se revisa de manera semestral.
+==================================================
+relevant_nodes:
+METADATA:
+filename: contrato_latam_ficticia.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES DE CLOUD COMPUTING/Honorarios y Forma de Pago/
+company: Ficticia
+---
+CONTENT:
+### SÉPTIMA.- HONORARIOS Y BENEFICIOS
+Por concepto de los servicios objeto del presente contrato, LATAM pagará a FICTICIA:
+
+1. Honorarios base: USD 50,000 (CINCUENTA MIL DÓLARES) mensuales, más los impuestos aplicables
+2. Beneficios adicionales:
+   - Descuento por volumen de uso: hasta 20% del honorario base
+   - Soporte premium: USD 5,000 mensuales
+   - Capacitación técnica: USD 2,000 por sesión
+   - Optimización de costos: 15% de ahorro compartido
+3. Ajustes anuales:
+   - Incremento por inflación: IPC + 2%
+   - Revisión de precios: semestral
+METADATA:
+filename: contrato_latam_ficticia.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES DE CLOUD COMPUTING/Propiedad Intelectual/
+company: Ficticia
+---
+CONTENT:
+### DÉCIMA.- PROPIEDAD INTELECTUAL
+Los modelos de IA desarrollados y entrenados por FICTICIA serán de su propiedad exclusiva. LATAM tendrá derecho a utilizar datos anonimizados para mejorar sus servicios, siempre que no comprometa la confidencialidad de FICTICIA.
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/
+company: Fakesoft
+---
+CONTENT:
+## Propiedad Intelectual
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/Propiedad Intelectual/
+company: Fakesoft
+---
+CONTENT:
+### DÉCIMA.- PROPIEDAD INTELECTUAL
+Todo el material, documentación, desarrollos, mejoras, invenciones y creaciones intelectuales que se generen como resultado de la prestación de los servicios objeto del presente contrato serán propiedad exclusiva de EL CLIENTE, incluyendo:
+
+1. Código fuente y binarios
+2. Documentación técnica
+3. Diseños y arquitecturas
+4. Bases de datos
+5. Interfaces de usuario
+6. Algoritmos y modelos
+7. Patentes y marcas
+8. Know-how desarrollado
+
+EL PRESTADOR cede todos los derechos de propiedad intelectual que pudieran corresponderle sobre los desarrollos realizados en virtud del presente contrato, sin reserva alguna.
+METADATA:
+filename: contrato_latam_ficticia_anexo_b_especificaciones_tecnicas.md
+header_path: /ANEXO B: ESPECIFICACIONES TÉCNICAS DE LA INFRAESTRUCTURA CLOUD/9. Costos y Facturación/
+company: Ficticia
+---
+CONTENT:
+### 9.2 Facturación
+- Mensual
+- Detalle por servicio
+- Desglose de costos
+- Proyecciones de uso
+==================================================
+
+
+
+==================================================
+query: ¿Cuál es el cronograma para pagar establecido en el contrato con Fakesoft?
+==================================================
+answer:
+El pago se realiza en tres etapas: 30% al inicio del contrato, 40% al cumplirse el 50% de los servicios y 30% al finalizar los servicios. Los pagos deben efectuarse dentro de los 30 días hábiles siguientes a la presentación de la factura correspondiente.
+==================================================
+relevant_nodes:
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/Honorarios y Forma de Pago/
+company: Fakesoft
+---
+CONTENT:
+### OCTAVA.- FORMA DE PAGO
+Los pagos se realizarán de la siguiente manera:
+
+1. 30% al inicio del contrato
+2. 40% al cumplimiento del 50% de los servicios
+3. 30% al finalizar los servicios
+
+Los pagos deberán realizarse dentro de los 30 días hábiles siguientes a la presentación de la factura correspondiente.
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/
+company: Fakesoft
+---
+CONTENT:
+## Honorarios y Forma de Pago
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/Duración y Vigencia/
+company: Fakesoft
+---
+CONTENT:
+### CUARTA.- INICIO DE LOS SERVICIOS
+Los servicios objeto del presente contrato iniciarán el día 1 de abril de 2024 y se desarrollarán de acuerdo con el cronograma establecido en el Anexo A del presente contrato. El cronograma contempla fases de implementación progresiva, con hitos de entrega cada 3 meses.
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/
+company: Fakesoft
+---
+CONTENT:
+## Obligaciones del Cliente
+METADATA:
+filename: contrato_latam_fakesoft.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES/
+company: Fakesoft
+---
+CONTENT:
+## Duración y Vigencia
+==================================================
+
+
+
+==================================================
+query: ¿Qué tipo de almacenamiento utiliza Ficticia?
+==================================================
+answer:
+Ficticia utiliza almacenamiento SSD NVMe y HDD, con capacidades de 50TB y 100TB respectivamente, además de un sistema de redundancia 3x en ambos tipos. También cuenta con un sistema de backup diario con una capacidad de 200TB y retención de 30 días.
+==================================================
+relevant_nodes:
+METADATA:
+filename: contrato_latam_ficticia_anexo_b_especificaciones_tecnicas.md
+header_path: /ANEXO B: ESPECIFICACIONES TÉCNICAS DE LA INFRAESTRUCTURA CLOUD/1. Infraestructura de Cómputo/
+company: Ficticia
+---
+CONTENT:
+### 1.2 Almacenamiento
+- **Almacenamiento de Datos**:
+  - SSD NVMe: 100TB
+  - HDD: 500TB
+  - Redundancia: 3x replicación
+- **Almacenamiento de Modelos**:
+  - SSD NVMe: 50TB
+  - Redundancia: 3x replicación
+- **Backup**:
+  - Frecuencia: Diaria
+  - Retención: 30 días
+  - Capacidad: 200TB
+METADATA:
+filename: contrato_latam_ficticia_anexo_b_especificaciones_tecnicas.md
+header_path: /ANEXO B: ESPECIFICACIONES TÉCNICAS DE LA INFRAESTRUCTURA CLOUD/7. Escalabilidad/
+company: Ficticia
+---
+CONTENT:
+### 7.2 Límites
+- Máximo de instancias: 200
+- Máximo de almacenamiento: 2PB
+- Máximo de ancho de banda: 100 Gbps
+METADATA:
+filename: contrato_latam_ficticia.md
+header_path: /CONTRATO DE PRESTACIÓN DE SERVICIOS PROFESIONALES DE CLOUD COMPUTING/Propiedad Intelectual/
+company: Ficticia
+---
+CONTENT:
+### DÉCIMA.- PROPIEDAD INTELECTUAL
+Los modelos de IA desarrollados y entrenados por FICTICIA serán de su propiedad exclusiva. LATAM tendrá derecho a utilizar datos anonimizados para mejorar sus servicios, siempre que no comprometa la confidencialidad de FICTICIA.
+METADATA:
+filename: contrato_latam_ficticia_anexo_b_especificaciones_tecnicas.md
+header_path: /ANEXO B: ESPECIFICACIONES TÉCNICAS DE LA INFRAESTRUCTURA CLOUD/2. Redes y Conectividad/
+company: Ficticia
+---
+CONTENT:
+### 2.1 Ancho de Banda
+- **Interno**:
+  - 100 Gbps entre instancias
+  - 40 Gbps para almacenamiento
+- **Externo**:
+  - 10 Gbps dedicado
+  - 1 Gbps redundante
+METADATA:
+filename: contrato_latam_ficticia_anexo_b_especificaciones_tecnicas.md
+header_path: /ANEXO B: ESPECIFICACIONES TÉCNICAS DE LA INFRAESTRUCTURA CLOUD/1. Infraestructura de Cómputo/
+company: Ficticia
+---
+CONTENT:
+### 1.1 Recursos de Procesamiento
+- **GPU Instances**:
+  - NVIDIA A100 (80GB HBM2e) - 8 instancias
+  - NVIDIA V100 (32GB HBM2) - 16 instancias
+  - NVIDIA T4 (16GB GDDR6) - 32 instancias
+- **CPU Instances**:
+  - Intel Xeon Platinum 8380 (40 cores) - 20 instancias
+  - AMD EPYC 7763 (128 cores) - 10 instancias
+- **Memoria RAM**:
+  - Mínimo 256GB por instancia GPU
+  - Mínimo 512GB por instancia CPU
+==================================================
+
+
